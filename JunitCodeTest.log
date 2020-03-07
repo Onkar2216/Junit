@@ -1,0 +1,46 @@
+[main] INFO  JunitCodeTest.class  2020-03-07 13:12:08,235[MM/DD/YYYY hh:ss] - I am in Initializer annotation Before Class block...
+[main] INFO  JunitCodeTest.class  2020-03-07 13:12:08,240[MM/DD/YYYY hh:ss] - I am in before annotation Before block..
+[main] INFO  JunitCodeTest.class  2020-03-07 13:12:08,240[MM/DD/YYYY hh:ss] - I am in subTest Block...
+[main] INFO  JunitCodeTest.class  2020-03-07 13:12:08,240[MM/DD/YYYY hh:ss] - I am exiting subtest block
+[main] INFO  JunitCodeTest.class  2020-03-07 13:12:08,240[MM/DD/YYYY hh:ss] - I am in after annotation after block
+[main] INFO  JunitCodeTest.class  2020-03-07 13:12:08,242[MM/DD/YYYY hh:ss] - I am in before annotation Before block..
+[main] INFO  JunitCodeTest.class  2020-03-07 13:12:08,242[MM/DD/YYYY hh:ss] - I am in sumTest Block...
+[main] INFO  JunitCodeTest.class  2020-03-07 13:12:08,246[MM/DD/YYYY hh:ss] - I am exiting sumtest block
+[main] INFO  JunitCodeTest.class  2020-03-07 13:12:08,246[MM/DD/YYYY hh:ss] - I am in after annotation after block
+[main] INFO  JunitCodeTest.class  2020-03-07 13:12:08,246[MM/DD/YYYY hh:ss] - I am in before annotation Before block..
+[main] INFO  JunitCodeTest.class  2020-03-07 13:12:08,246[MM/DD/YYYY hh:ss] - I am in create Instance Block...
+[main] INFO  JunitCodeTest.class  2020-03-07 13:12:08,246[MM/DD/YYYY hh:ss] - I am exiting createInstance block
+[main] INFO  JunitCodeTest.class  2020-03-07 13:12:08,246[MM/DD/YYYY hh:ss] - I am in after annotation after block
+[main] INFO  JunitCodeTest.class  2020-03-07 13:12:08,246[MM/DD/YYYY hh:ss] - I am in before annotation Before block..
+[main] INFO  JunitCodeTest.class  2020-03-07 13:12:08,246[MM/DD/YYYY hh:ss] - I am in mulTest Block...
+[main] INFO  JunitCodeTest.class  2020-03-07 13:12:08,246[MM/DD/YYYY hh:ss] - I am exiting multest block
+[main] INFO  JunitCodeTest.class  2020-03-07 13:12:08,246[MM/DD/YYYY hh:ss] - I am in after annotation after block
+[main] INFO  JunitCodeTest.class  2020-03-07 13:12:08,247[MM/DD/YYYY hh:ss] - I am in before annotation Before block..
+[main] INFO  JunitCodeTest.class  2020-03-07 13:12:08,247[MM/DD/YYYY hh:ss] - I am in divTest Block...
+[main] WARN  JunitCodeTest.class  2020-03-07 13:12:08,247[MM/DD/YYYY hh:ss] - Diveiser should not be 0 or negative..
+[main] INFO  JunitCodeTest.class  2020-03-07 13:12:08,247[MM/DD/YYYY hh:ss] - I am exiting divtest block
+[main] INFO  JunitCodeTest.class  2020-03-07 13:12:08,247[MM/DD/YYYY hh:ss] - I am in after annotation after block
+[main] INFO  JunitCodeTest.class  2020-03-07 13:12:08,247[MM/DD/YYYY hh:ss] - I am in end method annotation after class block....
+[main] INFO  JunitCodeTest.class  2020-03-07 13:13:37,632[MM/DD/YYYY hh:ss] - I am in Initializer annotation Before Class block...
+[main] INFO  JunitCodeTest.class  2020-03-07 13:13:37,635[MM/DD/YYYY hh:ss] - I am in before annotation Before block..
+[main] INFO  JunitCodeTest.class  2020-03-07 13:13:37,635[MM/DD/YYYY hh:ss] - I am in subTest Block...
+[main] INFO  JunitCodeTest.class  2020-03-07 13:13:37,636[MM/DD/YYYY hh:ss] - I am exiting subtest block
+[main] INFO  JunitCodeTest.class  2020-03-07 13:13:37,636[MM/DD/YYYY hh:ss] - I am in after annotation after block
+[main] INFO  JunitCodeTest.class  2020-03-07 13:13:37,637[MM/DD/YYYY hh:ss] - I am in before annotation Before block..
+[main] INFO  JunitCodeTest.class  2020-03-07 13:13:37,637[MM/DD/YYYY hh:ss] - I am in sumTest Block...
+[main] INFO  JunitCodeTest.class  2020-03-07 13:13:37,637[MM/DD/YYYY hh:ss] - I am exiting sumtest block
+[main] INFO  JunitCodeTest.class  2020-03-07 13:13:37,637[MM/DD/YYYY hh:ss] - I am in after annotation after block
+[main] INFO  JunitCodeTest.class  2020-03-07 13:13:37,638[MM/DD/YYYY hh:ss] - I am in before annotation Before block..
+[main] INFO  JunitCodeTest.class  2020-03-07 13:13:37,638[MM/DD/YYYY hh:ss] - I am in create Instance Block...
+[main] INFO  JunitCodeTest.class  2020-03-07 13:13:37,638[MM/DD/YYYY hh:ss] - I am exiting createInstance block
+[main] INFO  JunitCodeTest.class  2020-03-07 13:13:37,638[MM/DD/YYYY hh:ss] - I am in after annotation after block
+[main] INFO  JunitCodeTest.class  2020-03-07 13:13:37,638[MM/DD/YYYY hh:ss] - I am in before annotation Before block..
+[main] INFO  JunitCodeTest.class  2020-03-07 13:13:37,638[MM/DD/YYYY hh:ss] - I am in mulTest Block...
+[main] INFO  JunitCodeTest.class  2020-03-07 13:13:37,639[MM/DD/YYYY hh:ss] - I am exiting multest block
+[main] INFO  JunitCodeTest.class  2020-03-07 13:13:37,639[MM/DD/YYYY hh:ss] - I am in after annotation after block
+[main] INFO  JunitCodeTest.class  2020-03-07 13:13:37,639[MM/DD/YYYY hh:ss] - I am in before annotation Before block..
+[main] INFO  JunitCodeTest.class  2020-03-07 13:13:37,639[MM/DD/YYYY hh:ss] - I am in divTest Block...
+[main] WARN  JunitCodeTest.class  2020-03-07 13:13:37,639[MM/DD/YYYY hh:ss] - Diveiser should not be 0 or negative..
+[main] INFO  JunitCodeTest.class  2020-03-07 13:13:37,639[MM/DD/YYYY hh:ss] - I am exiting divtest block
+[main] INFO  JunitCodeTest.class  2020-03-07 13:13:37,639[MM/DD/YYYY hh:ss] - I am in after annotation after block
+[main] INFO  JunitCodeTest.class  2020-03-07 13:13:37,640[MM/DD/YYYY hh:ss] - I am in end method annotation after class block....
